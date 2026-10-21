@@ -1,4 +1,5 @@
 [![CodeQL Analysis](https://github.com/dorosafe/miniproj/actions/workflows/codeql.yml/badge.svg)](https://github.com/dorosafe/miniproj/actions/workflows/codeql.yml)
+[![Dependency Review](https://github.com/dorosafe/miniproj/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/dorosafe/miniproj/actions/workflows/dependency-review.yml)
 
 # TeamCar
 
