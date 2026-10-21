@@ -1,3 +1,5 @@
+[![CodeQL Analysis](https://github.com/dorosafe/miniproj/actions/workflows/codeql.yml/badge.svg)](https://github.com/dorosafe/miniproj/actions/workflows/codeql.yml)
+
 # TeamCar
 
 Apartment resident vehicle management system based on Python.
